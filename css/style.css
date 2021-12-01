@@ -1,0 +1,17 @@
+nav {
+    background-color: bisque; 
+    height: 100px;
+}
+.row {
+    height: 500px;
+}
+.left {
+    background-color: greenyellow;
+}
+.right {
+    background-color: grey;
+}
+footer {
+    background-color: lightseagreen;
+    height: 100px;
+}
